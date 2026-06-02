@@ -1,0 +1,23 @@
+.footer-inner {
+  margin: 0 auto;
+  padding: 30px;
+  max-width: 1200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: top;
+}
+
+.footer-left .info>span {
+  display: block;
+  font-size: 12px;
+  line-height: 120%;
+  color: rgb(var(--smalltext-color));
+}
+
+.footer-left .info>span a {
+  color: inherit;
+}
+
+.footer-right .sns a {
+  margin: 0 3px;
+}

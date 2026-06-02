@@ -1,0 +1,145 @@
+{
+  "admin": {
+    "admin": true,
+    "id": "0",
+    "username": "admin",
+    "password": "1234",
+    "onBoard": true,
+    "nickname": "운영자",
+    "gender": "other",
+    "birthday": "",
+    "height": "",
+    "weight": "",
+    "plans": {}
+  },
+  "user1": {
+    "admin": false,
+    "id": "1",
+    "username": "user1",
+    "password": "1234",
+    "onBoard": true,
+    "nickname": "테스터1",
+    "gender": "male",
+    "birthday": "1995-01-01",
+    "height": "170",
+    "weight": "60",
+    "plans": {
+      "2026-05-01": {
+        "memo": "",
+        "status": "finished",
+        "program": {
+          "가슴": [
+            {
+              "workout": "인클라인 덤벨 플라이",
+              "set": [
+                {
+                  "isCompleted": false,
+                  "kgs": 30,
+                  "rep": 12
+                },
+                {
+                  "isCompleted": false,
+                  "kgs": 30,
+                  "rep": 12
+                },
+                {
+                  "isCompleted": false,
+                  "kgs": 30,
+                  "rep": 12
+                },
+                {
+                  "isCompleted": false,
+                  "kgs": 30,
+                  "rep": 12
+                }
+              ]
+            }
+          ],
+          "유산소": [
+            {
+              "workout": "실내 자전거",
+              "set": [
+                {
+                  "isCompleted": false,
+                  "kgs": 0,
+                  "rep": 10
+                },
+                {
+                  "isCompleted": false,
+                  "kgs": 0,
+                  "rep": 10
+                },
+                {
+                  "isCompleted": false,
+                  "kgs": 0,
+                  "rep": 10
+                }
+              ]
+            }
+          ],
+          "맨몸 운동": [
+            {
+              "workout": "플랭크",
+              "set": [
+                {
+                  "isCompleted": false,
+                  "kgs": 0,
+                  "rep": 60
+                },
+                {
+                  "isCompleted": false,
+                  "kgs": 0,
+                  "rep": 60
+                },
+                {
+                  "isCompleted": false,
+                  "kgs": 0,
+                  "rep": 60
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  "user2": {
+    "admin": false,
+    "id": "2",
+    "username": "user2",
+    "password": "1234",
+    "onBoard": true,
+    "nickname": "테스터2",
+    "gender": "female",
+    "birthday": "1995-01-01",
+    "height": "170",
+    "weight": "60",
+    "plans": {}
+  },
+  "user3": {
+    "admin": false,
+    "id": "3",
+    "username": "user3",
+    "password": "1234",
+    "onBoard": true,
+    "nickname": "테스터3",
+    "gender": "male",
+    "birthday": "1995-01-01",
+    "height": "170",
+    "weight": "60",
+    "plans": {}
+  },
+  "user4": {
+    "admin": false,
+    "id": "4",
+    "username": "user4",
+    "password": "1234",
+    "onBoard": true,
+    "nickname": "테스터4",
+    "gender": "female",
+    "birthday": "1995-01-01",
+    "height": "170",
+    "weight": "60",
+    "plans": {}
+  }
+}
